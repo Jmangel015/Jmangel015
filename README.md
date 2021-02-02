@@ -17,7 +17,5 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=jmangel015&show_icons=true&locale=en&theme=yeblu" alt="jmangel015" />
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-
 
 
